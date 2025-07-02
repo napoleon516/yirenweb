@@ -1,2 +1,2 @@
-# yishuweb
+# yirenweb
 a web for yi app
